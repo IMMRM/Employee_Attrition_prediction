@@ -1,0 +1,37 @@
+Columns,Information
+Age,Age of the employee
+Attrition,Whether or not employee left the organization
+BusinessTravel,Frequency of travelling that employee needs to do as per business requirements.
+DailyRate,Daily wage price
+Department,Department in which employee is working
+DistanceFromHome,Distance in km from employee’s home
+Education,Education level 1. Below College 2. College 3. Bachelor 4. Master 5. Doctor
+EducationField,Education speciality in which field
+EmployeeCount,How many employee’s under a certain employee.
+EmployeeNumber,Primary identification number for an employee
+EnvironmentSatisfaction,Satisfaction level of an employee 1. Low  2. Medium 3. High 4. Very high
+Gender,Gender of employee
+HourlyRate,Per hour billing of an employee
+JobInvolvement,Level of involvement the job demands 1. �Low� 2. �Medium� 3. �High� 4. �Very high�
+JobLevel,Level of position at which employee is working
+JobRole,Role of employee
+JobSatisfaction,Level of satisfaction employee has with his job 1. �Low� 2. �Medium� 3. �High� 4. �Very High�
+MaritalStatus,Whether employee is married or not
+MonthlyIncome,Salary employee is receiving per month.
+MonthlyRate,Monthly rate of employee
+NumCompaniesWorked,Number of organizations the employee has worked previously
+Over18,Is the employee over 18 years or not
+OverTime,Did the employee ever do overtime?
+PercentSalaryHike,How much % hike the employee got last time?
+PerformanceRating,How much rating employee got last time?
+RelationshipSatisfaction,Level of satisfaction employee has with his colleagues and team. 1. �Low� 2. �Medium� 3. �High� 4. �Very High�
+StandardHours,Standard hours of working for employee
+StockOptionLevel,What level of stock options have been given to employee?
+TotalWorkingYears,Years of experience in total the employee has
+TrainingTimeLastYear,How many times the employee got trained last year?
+WorkLifeBalance,Level of work life balance employee rated 1. �Bad� 2. �Good� 3. �Better� 4. �Best�
+Yearsatcompany,Years of experience employee has in current company
+Yearsatcurrentrole,Years of experience in current role.
+YearsSinceLastPromotion,How many years have been since the last promotion?
+YearswithCurrManager,How many years have been since the employee is serving under current manager?
+ ,
